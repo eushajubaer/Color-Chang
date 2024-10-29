@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+
+
+.one{
+  color :aquamarine;
+  font-size: 40px;
+}
